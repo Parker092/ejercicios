@@ -1,0 +1,15 @@
+1. PHP nace en el año 1994 bajo la idea de Rasmus Lerdof.
+
+2. Es un lenguaje de programación para desarrollo web.
+
+3. Hypertext Pre-Processor
+
+4.-PHP: es el lenguaje que se utiliza del lado del servidor.-JavaScript: es el lenguaje que se utiliza del lado del cliente.
+
+5. PHP trabaja bajo PHP License v3.01, es una licencia codigo abierto(Open Source License)
+
+6. Muestra la informacion de nuestro servicio php.
+
+7. (echo) muestra texto , (print_r) el resultado y (var_dump) informacion segun variable.
+
+8. La informacion del prueba02.php con header y footer.
